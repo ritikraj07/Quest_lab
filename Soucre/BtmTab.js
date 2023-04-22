@@ -23,6 +23,7 @@ export default function MyTabs() {
                 headerShown: false,
                 tabBarShowLabel: false,
                 color: 'white',
+                tabBarActiveTintColor:'white',
                 tabBarStyle: {
                     position: 'absolute',
                     bottom: 20,
